@@ -1,0 +1,21 @@
+.card{
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid green;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+    margin: 15px auto;
+
+
+}
+.items-data{
+    text-align: start;
+    padding: 10px;
+    margin: 10px 0px;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+    border-radius: 10px;
+}
