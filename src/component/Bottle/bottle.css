@@ -19,3 +19,14 @@ img{
     box-shadow: 0px 0px 10px rgb(0, 0, 0);
     border-radius: 10px;
 }
+.btn-container{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ 
+   
+}
+.btn-container button {
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+    border: 1px solid rgba(0, 0, 255, 0.537);
+}

@@ -1,12 +1,12 @@
 
 import './App.css'
-import Wacths from './component/wacths/wacths'
+import Bottles from './component/Bottles/Bottles'
 
 function App() {
 
   return (
     <>
-      <Wacths></Wacths>
+     <Bottles></Bottles>
     </>
   )
 }
